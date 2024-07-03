@@ -11,7 +11,8 @@ const Navbar = () => {
     <nav>
       <ul>
         <div className='logo'>
-            <h1 className='text-3xl'>Logo</h1>
+          <Link href="/" className='text-3xl' >Logo</Link>
+            
         </div>
 
         <div className='link-container'>
